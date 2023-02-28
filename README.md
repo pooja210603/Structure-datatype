@@ -26,6 +26,7 @@ To create a structure in C, the struct keyword is used followed by the tag name 
           char name[50];
           char address[50];int age;
       };
+![image](https://user-images.githubusercontent.com/125560933/221843243-cffecf2a-5ced-456b-865a-a8ec2465719a.png)
 
 
 ## How to Initialize Structure Members?
@@ -41,6 +42,7 @@ Syntax:
 We can directly access the structure member using the dot(.) operator. The dot operator is used between the structure variable name and the structure member name we want to access. Let’s see the syntax to understand it in a better way.
 
      structure_variable.structure_member;
+
 
 **Reference website:**
 https://www.scaler.com/topics/c/structures-c/
