@@ -43,6 +43,8 @@ We can directly access the structure member using the dot(.) operator. The dot o
 
      structure_variable.structure_member;
 
+## Output:
+![image](https://user-images.githubusercontent.com/125560933/228202719-9b54f1fd-6051-440f-867d-1cbe8f5b598c.png)
 
 **Reference website:**
 https://www.scaler.com/topics/c/structures-c/
